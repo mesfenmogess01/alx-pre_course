@@ -1,4 +1,4 @@
 my first readme
 
 
-is updat now
+up to date
